@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parambehera&label=Profile%20views&color=0e75b6&style=flat" alt="parambehera" /> </p>
 
-- 🔭 I’m currently working on **Chit-chat**
+- 🔭 I’m currently working on **Campus-plus**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Micro-services**
 
 - 👯 I’m looking to collaborate on **node.js**
 
